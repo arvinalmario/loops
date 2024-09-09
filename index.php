@@ -11,10 +11,10 @@ $num = 6;
 //     $num--;
 // }while($num >= 1);
 
-while($num <= 5){
-    echo 'Numero ' .$num .'<br>';
-    $num++;
-}
+// while($num <= 5){
+//     echo 'Numero ' .$num .'<br>';
+//     $num++;
+// }
 // Initialize,condition,iteration
 // for($num1=1;$num1<=5;$num1++){
 //     echo 'Numero ' .$num1 .'<br>';
